@@ -4,6 +4,7 @@ body{
   align-items: center;
   justify-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightslategray;
 }
 .container{
   width: 30rem;
