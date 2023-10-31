@@ -6,8 +6,6 @@ In this repo , I am going to work with Html-Css-Js and building some real world 
 ><br>
 ><br>
 ><br>
->>
->>
 >*1.project bg-video-audio-gsap link-https://kupendra.me/Html_CSS_Js_100-projects/project-1_Bg-video/index.html* <br>
 >*2.project loading animation-css-gsap link-https://kupendra.me/Html_CSS_Js_100-projects/project-2_loading-animation/index.html*  <br>
 >*3.project Custom Scrollbar Animation link-https://kupendra.me/Html_CSS_Js_100-projects/project-3_custom%20scrollbar/index.html* <br>
@@ -15,4 +13,4 @@ In this repo , I am going to work with Html-Css-Js and building some real world 
 >*5.Creative Button Animation without js link-https://kupendra.me/Html_CSS_Js_100-projects/project-5_Creative_Buttons/btn1/*<br>
 >*6.Creative hovering effect on Menu bar without js link-https://kupendra.me/Html_CSS_Js_100-projects/project-6_Creative-menu/menu02/index.html*<br>
 >*7.Creative image hovering effect link-https://kupendra.me/Html_CSS_Js_100-projects/project-7_Creative%20Image%20Effect/Effect1/indext.htm*
-    link2-
+ link2-
