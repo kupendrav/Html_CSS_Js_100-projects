@@ -1,0 +1,42 @@
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+  width: 30rem;
+  height: 30rem;
+  position: relative;
+  overflow: hidden;
+}
+.container img{
+  width: 100%;
+  transition: all 1s;
+}
+.content{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  transition: all 1s;
+  background: black;
+  transform: translateY(100%);
+
+}
+
+.container:hover .content{
+  transform: translateY(0);
+}
+
+.container:hover img{
+  transform:translateY(-100%);
+}
