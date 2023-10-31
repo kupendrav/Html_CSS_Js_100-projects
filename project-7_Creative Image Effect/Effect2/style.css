@@ -1,0 +1,42 @@
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.con{
+  width: 50rem;
+  height: 50rem;
+  position: relative;
+  overflow: hidden;
+}
+.con img{
+  width: 100%;
+  transition: all 2s;
+}
+
+.content{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 25%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(25, 221, 25);
+  transition: all 2s;
+  background: crimson;
+  transform: translateX(-100%);
+}
+
+.con:hover .content{
+  transform: translateX(0);
+}
+
+.con:hover img{
+  transform: translateX(25%);
+}
