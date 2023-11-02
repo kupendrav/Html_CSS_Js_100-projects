@@ -14,4 +14,4 @@ In this repo , I am going to work with Html-Css-Js and building some real world 
 >*6.Creative hovering effect on Menu bar without js link-https://kupendra.me/Html_CSS_Js_100-projects/project-6_Creative-menu/menu02/index.html*<br>
 >*7.Creative image hovering effect link-https://kupendra.me/Html_CSS_Js_100-projects/project-7_Creative%20Image%20Effect/Effect1/indext.htm <br>
 >link2-https://kupendra.me/Html_CSS_Js_100-projects/project-7_Creative%20Image%20Effect/Effect2/indext.htm<br>
->*8.MOuseMove effect by using gsap link-https://kupendra.me/Html_CSS_Js_100-projects/project-8_bg%20music/index.html*<br>
+>*8.MOuseMove effect by using gsap link-https://kupendra.me/Html_CSS_Js_100-projects/project-8_bg%20music/index.html<br>
