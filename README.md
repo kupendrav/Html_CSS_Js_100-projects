@@ -1,7 +1,7 @@
 # Html_CSS_Js_100-projects
 In this repo , I am going to work with Html-Css-Js and building some real world projects.
 
->*A mega responsive animated portfolio using Js/gsap/locomotive link*-https://kupendra.me/Html_CSS_Js_100-projects/modern-portfolio/index.html
+>*A mega responsive animated portfolio using Js/gsap/locomotive link*-https://kupendrav.github.io/Html_CSS_Js_100-projects/modern-portfolio/index.html
 >
 ><br>
 ><br>
